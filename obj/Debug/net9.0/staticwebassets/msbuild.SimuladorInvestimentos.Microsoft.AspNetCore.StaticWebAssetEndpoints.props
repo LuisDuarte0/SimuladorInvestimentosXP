@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/SimuladorInvestimentos/img/xp.dzwh0c607v.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\xp.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dzwh0c607v"},{"Name":"integrity","Value":"sha256-OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs="},{"Name":"label","Value":"_content/SimuladorInvestimentos/img/xp.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7278"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 02:41:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimuladorInvestimentos/img/xp.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\xp.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7278"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 02:41:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimuladorInvestimentos/swagger/custom.0ezo5gjgci.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\swagger\custom.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0ezo5gjgci"},{"Name":"integrity","Value":"sha256-2KHdToXzH1P\u002BJFH41TcRVlvr2/7Pe7zBC40u22YOhr0="},{"Name":"label","Value":"_content/SimuladorInvestimentos/swagger/custom.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1747"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222KHdToXzH1P\u002BJFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 18:39:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/SimuladorInvestimentos/swagger/custom.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\swagger\custom.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2KHdToXzH1P\u002BJFH41TcRVlvr2/7Pe7zBC40u22YOhr0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1747"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00222KHdToXzH1P\u002BJFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Feb 2025 18:39:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

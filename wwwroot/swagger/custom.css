@@ -1,0 +1,75 @@
+/* ✅ Ajusta a cor da barra superior para #0d0e10 */
+.topbar-wrapper {
+    background-color: #0d0e10 !important;
+}
+
+/* ✅ Esconde o logo do Swagger */
+.topbar-wrapper .link {
+    display: none !important;
+}
+
+/* ✅ Remove qualquer imagem anterior */
+.topbar-wrapper img {
+    display: none !important;
+}
+
+/* ✅ Adiciona a logo da XP no topo e a CENTRALIZA */
+.topbar-wrapper::before {
+    content: "";
+    display: block;
+    background-image: url('/img/xp.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 100%;
+}
+
+
+/* ✅ Ajusta a fonte e cores principais */
+body {
+    font-family: "Arial", sans-serif !important;
+    background-color: #f4f4f4 !important;
+}
+
+/* ✅ Ajusta o título principal */
+h2 {
+    color: #000 !important;
+}
+
+/* ✅ Ajusta os botões principais (POST, GET, DELETE) */
+.opblock-summary {
+    background-color: #ffffff !important;
+    border-radius: 5px !important;
+}
+
+/* ✅ Ajusta a cor do texto dentro dos botões */
+.opblock-summary-method {
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+}
+
+/* ✅ Remove fundo cinza do Swagger */
+.swagger-ui {
+    background-color: white !important;
+}
+
+/* ✅ Ajusta as seções de API */
+.opblock {
+    border-left: 5px solid #0059b2 !important;
+    background-color: white !important;
+}
+
+/* ✅ Botões dentro do Swagger */
+.btn.try-out__btn {
+    background-color: #00b859 !important;
+    color: white !important;
+}
+.execute-wrapper .btn {
+    background-color: #00b859 !important;
+    color: white !important;
+}
+.cancel {
+    background-color: #b20000 !important;
+    color: white !important;
+}

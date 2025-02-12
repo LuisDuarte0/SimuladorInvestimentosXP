@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "Hash": "CcVdZDL7dg2qFJ6gSfn64fcZpyy9W7s7IXDy8zJ/zZE=",
+  "Source": "SimuladorInvestimentos",
+  "BasePath": "_content/SimuladorInvestimentos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimuladorInvestimentos\\wwwroot",
+      "Source": "SimuladorInvestimentos",
+      "ContentRoot": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\",
+      "BasePath": "_content/SimuladorInvestimentos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\fxwrqk92im-0ezo5gjgci.gz",
+      "SourceId": "SimuladorInvestimentos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/SimuladorInvestimentos",
+      "RelativePath": "swagger/custom#[.{fingerprint=0ezo5gjgci}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\swagger\\custom.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "e2ytfeu59g",
+      "Integrity": "ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\swagger\\custom.css"
+    },
+    {
+      "Identity": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\img\\xp.png",
+      "SourceId": "SimuladorInvestimentos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\",
+      "BasePath": "_content/SimuladorInvestimentos",
+      "RelativePath": "img/xp#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dzwh0c607v",
+      "Integrity": "OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\xp.png"
+    },
+    {
+      "Identity": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\swagger\\custom.css",
+      "SourceId": "SimuladorInvestimentos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\",
+      "BasePath": "_content/SimuladorInvestimentos",
+      "RelativePath": "swagger/custom#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0ezo5gjgci",
+      "Integrity": "2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\swagger\\custom.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "img/xp.dzwh0c607v.png",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\img\\xp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 02:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dzwh0c607v"
+        },
+        {
+          "Name": "label",
+          "Value": "img/xp.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs="
+        }
+      ]
+    },
+    {
+      "Route": "img/xp.png",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\img\\xp.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 02:41:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OdFZ81z/LAUhrzcTmH/HjyD3U8AsTO0FNaDYOJ47sxs="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.0ezo5gjgci.css",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\fxwrqk92im-0ezo5gjgci.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001536098310"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezo5gjgci"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.0ezo5gjgci.css",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\swagger\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezo5gjgci"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.0ezo5gjgci.css.gz",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\fxwrqk92im-0ezo5gjgci.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ezo5gjgci"
+        },
+        {
+          "Name": "label",
+          "Value": "swagger/custom.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.css",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\fxwrqk92im-0ezo5gjgci.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001536098310"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.css",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\wwwroot\\swagger\\custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1747"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2KHdToXzH1P+JFH41TcRVlvr2/7Pe7zBC40u22YOhr0="
+        }
+      ]
+    },
+    {
+      "Route": "swagger/custom.css.gz",
+      "AssetFile": "C:\\Users\\luisc\\Downloads\\SimuladorInvestimentos\\obj\\Debug\\net9.0\\compressed\\fxwrqk92im-0ezo5gjgci.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "650"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 12 Feb 2025 18:39:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ttgeYjTs/2AH6m2EBvgR21IODyJHsUB5lnKUjVAUcOQ="
+        }
+      ]
+    }
+  ]
+}
